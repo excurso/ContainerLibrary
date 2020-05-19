@@ -34,6 +34,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 #  define CONTAINER_EXPORT DECL_IMPORT
 #endif
 
+#include <cinttypes>
 #include <algorithm>
 #include <functional>
 #include <vector>
